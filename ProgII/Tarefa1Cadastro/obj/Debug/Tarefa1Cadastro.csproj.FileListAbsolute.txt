@@ -1,0 +1,7 @@
+C:\Desenvolvimento\ProgramacaoInternetII\ProgII\Tarefa1Cadastro\obj\Debug\Tarefa1Cadastro.csprojResolveAssemblyReference.cache
+C:\Desenvolvimento\ProgramacaoInternetII\ProgII\Tarefa1Cadastro\obj\Debug\Tarefa1Cadastro.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\ProgramacaoInternetII\ProgII\Tarefa1Cadastro\bin\Debug\Tarefa1Cadastro.exe.config
+C:\Desenvolvimento\ProgramacaoInternetII\ProgII\Tarefa1Cadastro\bin\Debug\Tarefa1Cadastro.exe
+C:\Desenvolvimento\ProgramacaoInternetII\ProgII\Tarefa1Cadastro\bin\Debug\Tarefa1Cadastro.pdb
+C:\Desenvolvimento\ProgramacaoInternetII\ProgII\Tarefa1Cadastro\obj\Debug\Tarefa1Cadastro.exe
+C:\Desenvolvimento\ProgramacaoInternetII\ProgII\Tarefa1Cadastro\obj\Debug\Tarefa1Cadastro.pdb
